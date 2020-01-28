@@ -1,0 +1,1 @@
+Basic assignment planning app. Add, complete, and delete assignments: https://timrtyrrell.github.io/assignments-app/
